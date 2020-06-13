@@ -37,7 +37,7 @@ a{
   
 }
 .top{
-  background-image:url(https://mypaper.pchome.com.tw/show/article/kantida/A1320752203);
+  background-image:url(https://lh3.googleusercontent.com/proxy/2lHJ4CLi2C0_ZgAygdigRTFW7pGVmA0dxuYvYRn-mnPxSg5fSGtNoXwCkexZJXC3WgbPXYXxZSxOUKxArlTmOEtA3iJ-CFeUt5EbJeOQ155oGFcGBFjoXpY);
   background-position:cover;
   background-size:cover;
   height:330px;
@@ -53,7 +53,7 @@ position:absolute;
   letter-spacing:2px;
   color:white;
   font-weight:3550;
-  background: linear-gradient(transparent 0%,#825558 120%);
+  background: linear-gradient(transparent 0%,#edca80 120%);
   eidth:100%;
   padding-top:30px;
   padding-bottom:5px;
@@ -132,7 +132,7 @@ display:inline-block;
   letter-spacing:2px;
 }
 .btnWebsite{
-  background-color:#825558;
+  background-color:#7f9645;
   color:white;
   transition:0.5s;
 }
